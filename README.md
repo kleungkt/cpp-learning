@@ -1,4 +1,4 @@
-# cpp-learning
+# C++ Learning Notes C++学习笔记
 my C++ learning notes(in Chinese) covering the following topics:
 1. CS fundamentals, binary, development environment(计算机基础知识、二进制、开发环境)
 2. C++ Basic Syntax(C++ 基本语法)
